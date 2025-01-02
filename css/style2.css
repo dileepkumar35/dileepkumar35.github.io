@@ -1,0 +1,62 @@
+@.has-background-white
+.navbar
+.is-dark
+.animated-nav
+.container
+.navbar-brand
+.navbar-item
+.is-size-5
+.has-text-weight-bold
+.brand-name
+.navbar-burger
+.burger
+.navbar-menu
+.navbar-end
+.has-text-centered
+.nav-link
+.icon-text
+.icon
+.is-large
+.is-rounded
+.profile-image
+.certifications-section
+.columns
+.is-multiline
+.column
+.is-one-third-desktop
+.is-half-tablet
+.cert-box
+.bullet-list
+.has-text-centered
+.modal
+.modal-background
+.modal-card
+.modal-card-head
+.modal-card-title
+.modal-card-body
+.input
+.search-results
+.footer
+.py-3
+.content
+.footer-content
+.built-with
+.code-icon
+.heart-icon
+.footer-tagline
+.copyright
+
+
+
+
+.has-background-white {
+    background-color: #fff !important;
+  }
+
+  .has-background-white-ter {
+    background-color: #f5f5f5 !important;
+  }
+
+  .has-background-white-bis {
+    background-color: #fafafa !important;
+  }
